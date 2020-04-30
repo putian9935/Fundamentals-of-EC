@@ -60,4 +60,4 @@ html_static_path = ['_static']
 
 latex_engine = 'lualatex'
 
-
+master_doc = 'index'
