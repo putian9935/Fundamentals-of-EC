@@ -1,12 +1,12 @@
-# *.png 
+*.png 
 
 *.bat 
 
 *.exe
 
-# *.jpg
+*.jpg
 
-# *.mp4
+*.mp4
 
 Makefile
 
