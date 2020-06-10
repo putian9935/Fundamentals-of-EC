@@ -12,6 +12,9 @@ Makefile
 
 *.xlsx 
 
+*.tex
+*.aux
+
 _build/
 _static/
 _templates/
